@@ -65,6 +65,8 @@ O projeto possui:
 * Organização de layout com Flexbox
 * Estilização com efeitos e transições
 
----
 
-Se quiser, posso refazer esse README como se fosse você falando (em primeira pessoa) igual você pediu nos outros projetos 😄
+
+
+
+
